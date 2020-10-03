@@ -41,6 +41,13 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [https://www.duniailkom.com/](https://www.duniailkom.com/)
 - [https://www.malasngoding.com/](https://www.malasngoding.com/)
 - [https://www.codepolitan.com/articles](https://www.codepolitan.com/articles)
+- [https://sekolahkoding.com/](https://sekolahkoding.com)
+- [https://kelaskoding.com/](https://kelaskoding.com/)
+- [https://jagocoding.com/](https://jagocoding.com/)
+- [http://mfikri.com/](http://mfikri.com/)
+- [https://www.dumetschool.com/](https://www.dumetschool.com/)
+- [https://kopi.dev/](https://kopi.dev/)
+- [https://www.maribelajarcoding.com/](https://www.maribelajarcoding.com/)
 
 ### English
 
@@ -95,6 +102,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [https://abaykan.com/](https://abaykan.com/)
 - [https://infosec.zerobyte.id/](https://infosec.zerobyte.id/)
+- [https://nakanosec.com/](https://nakanosec.com/)
 
 #### English
 
@@ -132,6 +140,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [https://graylife.co/](https://graylife.co/)
 - [https://noobsec.org/](https://noobsec.org/)
+- [https://nakanosec.com/](https://nakanosec.com)
 
 #### English
 
